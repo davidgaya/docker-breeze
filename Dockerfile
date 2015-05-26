@@ -17,3 +17,10 @@ RUN gem install mime-types -v 2.5
 RUN gem install ansi -v 1.5.0
 RUN gem install bcrypt -v 3.1.10
 RUN gem install guard-livereload -v 2.4.0
+RUN gem install mocha -v 1.1.0
+RUN gem install mongoid -v 4.0.1
+RUN gem install oauth2 -v 1.0.0
+RUN gem install webmock -v 1.20.4
+RUN gem install ci_reporter_minitest -v 1.0.0
+RUN gem install turbolinks -v 2.5.3
+RUN gem install spring -v 1.3.4
